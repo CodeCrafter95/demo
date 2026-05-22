@@ -1,4 +1,4 @@
 <html>
-  <h1>IGNORE testing</h1>
+  <h1>Please ignore this file to git</h1>
 
 </html>
